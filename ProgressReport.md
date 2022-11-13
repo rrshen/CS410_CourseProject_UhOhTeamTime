@@ -13,9 +13,13 @@
     - https://forms.gle/pyXcjunn5DeLQLp76
     - https://docs.google.com/spreadsheets/d/1s3apLBxWJRFG5jkmzOnENAjwzOHSVa9an8pYPAfEWzg/edit?resourcekey=undefined#gid=1094134541
 
+- [ ] Data organization into computer-readable document
+
 - [ ] Algorithm for scoring reactions
 
 - [ ] Code
+  - Created Colab notebook for final project
+    - https://colab.research.google.com/drive/1MAT1Jzh2zQUpkCU0pKWeR9_FqM4SlvTc?authuser=1#scrollTo=4FIirLj0Ynrd
 
 ## Challenges
 
