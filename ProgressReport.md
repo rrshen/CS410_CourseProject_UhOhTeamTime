@@ -2,9 +2,13 @@
 
 ## Tasks
 
-- [ ] Resource collection
+- [x] Resource collection
   - Open source chatbots
+    - https://github.com/gunthercox/ChatterBot
+    - https://github.com/FORTFANOP/ChatbotVerse
   - Sentiment analysis APIs
+    - https://www.twinword.com/api/sentiment-analysis.php
+    - Video on sentiment analysis: https://youtu.be/kBoe56CfugY
   - My private MP2.3 repository 
     - https://github.com/rrshen/MP2.3_private
     
