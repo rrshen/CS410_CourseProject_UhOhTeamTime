@@ -19,4 +19,4 @@
 
 ## Challenges
 
-Because this is a niche topic, there don't seem to be any available databases for pairings or rankings. I had to create my corpus and potential 'queries' myself and present all of the options in a way that would allow people to rank them. Adding each new response and reaction took about five minutes by the time I reached a point I deemed satisfactory, and I only have a single question with 24 potential answers and 13 potential reactions to the answers. 
+Because this is a niche topic, there don't seem to be any available databases for pairings or rankings. I had to create my corpus and potential 'queries' myself and present all of the options in a way that would allow people to rank them. Adding each new response and reaction took about five minutes by the time I reached a point I deemed satisfactory, and I only have a single question with 24 potential answers and 13 potential reactions to the answers, but the Google form consists of 338 questions, which took a very long time to create and is daunting for people to fill out.
