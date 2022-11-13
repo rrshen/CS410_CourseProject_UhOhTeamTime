@@ -2,7 +2,7 @@
 
 ## Tasks
 
-- [] Resource collection
+- [ ] Resource collection
   - Open source chatbots
   - Sentiment analysis APIs
   - My private MP2.3 repository 
@@ -13,9 +13,9 @@
     - https://forms.gle/pyXcjunn5DeLQLp76
     - https://docs.google.com/spreadsheets/d/1s3apLBxWJRFG5jkmzOnENAjwzOHSVa9an8pYPAfEWzg/edit?resourcekey=undefined#gid=1094134541
 
-- [] Algorithm for scoring reactions
+- [ ] Algorithm for scoring reactions
 
-- [] Code
+- [ ] Code
 
 ## Challenges
 
