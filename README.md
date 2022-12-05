@@ -6,6 +6,7 @@ Originally, my proposal was as described in ProjectProposal.md; I wanted to crea
 
 - [x] Source Code
  - https://colab.research.google.com/drive/1MAT1Jzh2zQUpkCU0pKWeR9_FqM4SlvTc?usp=sharing
+ - Credit to https://colab.research.google.com/github/interactive-fiction-class/interactive-fiction-class.github.io/blob/master/homeworks/text-adventure-game/Text_Adventure_Game.ipynb for guidance on how to build a text-based game in Colab and credit to OpenAI for the deep learning language model, GPT-3.
 - [ ] Demo
  - A demo that shows your code can actually run and generate the desired results. If there is a training process involved, you don’t need to show that process during the demo. If your code takes too long to run, try to optimize it, or write some intermediate results (e.g. inverted index, trained model parameters, etc.) to disk beforehand.
 - [x] Self Evaluation
