@@ -1,6 +1,6 @@
-# Project Documentation
+# Text-Based Game Enhanced By AI
 
-I spoke with the professor during office hours, and he inquired as to my motivation for this project. I explained that I had been inspired while playing text-based games, and he suggested that I use existing language models such as GPT-3 to improve text-based games rather than attempting to basically reproduce a chatbot. So instead of just creating a software application that uses sentiment analysis and pattern matching to rank the appropriateness of follow-up reactions to question-answer pairs, I have pivoted to the aforementioned topic.
+Originally, my proposal was as described in ProjectProposal.md; I wanted to create a software application that will use sentiment analysis and pattern matching to rank the appropriateness of follow-up reactions to question-answer pairs. However, I spoke with the professor during Office Hours, and he inquired as to my motivation for this project. I explained that I had been inspired while playing text-based games, and Professor Zhai suggested that I use existing language models such as GPT-3 to improve text-based games rather than attempting to basically reproduce a functionality that existing advanced chatbots have already tried to implement. So instead of following through with my original plan, I have pivoted to enhancing a text-based game using AI. 
 
 ## Main Results
 
