@@ -42,14 +42,9 @@ Use commands such as "go [exit name]" or "take [item name]" to play. Other poten
 
 For example, if the text reads:
 
-Exits: To your room, To mina's room, To garage
-You see: 
-Your girlfriend
-	 talk to her
-	 propose with silver ring
-	 propose with gold ring
+![image](https://user-images.githubusercontent.com/42553808/206592662-2fc80e13-3e3f-456c-b58f-7f24c79a3a05.png)
   
-You could type "go to your room" to go to your room or "talk to her" to talk to your girlfriend. 
+You could type "go to your room" to go to your room or "talk to her" to talk to your girlfriend. Some actions, such as proposing with certain rings, will not be allowed until you actually acquire the necessary item.
 
 ## Main Results
 
