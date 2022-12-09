@@ -31,8 +31,25 @@ Python
 ## How to Use
 
 1. Make a copy of the CS410FinalProject.ipynb Colab notebook
-2. Run all of the cells
-3. Input text when prompted by the game
+2. Open the table of contents on the left side and skip to the section titled 'Play the Game'
+![image](https://user-images.githubusercontent.com/42553808/206591884-6af5d78f-b8fc-4f91-933a-0507523be7b7.png)
+2. Click on the section of code that begins with "def game_loop():". Then, click Runtime -> Run before on the toolbar.
+![image](https://user-images.githubusercontent.com/42553808/206592034-b7e17100-e48c-4554-88cc-a9d87e9de9f5.png)
+3. Click the play button on the left of the code block you're in. Then, enter text when prompted.
+![image](https://user-images.githubusercontent.com/42553808/206592160-9431a342-f1ca-4671-8e41-3e625593a5a9.png)
+
+Use commands such as "go [exit name]" or "take [item name]" to play. Other potential actions you can take will be printed with an indent.
+
+For example, if the text reads:
+
+Exits: To your room, To mina's room, To garage
+You see: 
+Your girlfriend
+	 talk to her
+	 propose with silver ring
+	 propose with gold ring
+  
+You could type "go to your room" to go to your room or "talk to her" to talk to your girlfriend. 
 
 ## Main Results
 
