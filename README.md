@@ -46,6 +46,8 @@ For example, if the text reads:
   
 You could type "go to your room" to go to your room or "talk to her" to talk to your girlfriend. Some actions, such as proposing with certain rings, will not be allowed until you actually acquire the necessary item.
 
+To restart the game, you can stop the runtime by pressing the square-shaped Stop button with the loading circle and re-pressing it when it displays the triangular Start option.
+
 ## Main Results
 
 - [x] Source Code
